@@ -1,0 +1,126 @@
+# GENERADO AUTOMÁTICAMENTE desde SCHEME.md — NO EDITAR A MANO.
+# Cualquier cambio se perderá en la siguiente ejecución de build.py.
+
+metadata:
+  slug: bootcamp-ia
+  cliente_u_organizacion: Bootcamp Intensivo de IA
+  rol_u_oportunidad: Candidatura a bootcamp
+  tipo: candidatura-empleo
+  idioma: es
+  fecha: ''
+  cv_pdf: ''
+  linkedin_url: https://www.linkedin.com/in/josegalindo/
+  github_url: https://github.com/josegalindoegea-devlpr/candidatura-bootcamp-ia
+  email_contacto: jose.galindo.egea@gmail.com
+  titulo_pagina: José Galindo — Candidatura Bootcamp IA
+  meta_descripcion: 'Micro-site de candidatura de José Galindo para el Bootcamp Intensivo de IA: motivación,
+    valor aportado y una propuesta de arquitectura de agente aplicada a gobierno de SLAs.'
+bloque_candidatura:
+  eyebrow: Candidatura · Bootcamp Intensivo de IA
+  titulo_candidatura: Construyendo el puente entre la experiencia tecnológica y la inteligencia artificial
+    aplicada.
+  subtitulo_candidatura: 'Mi candidatura para el Bootcamp Intensivo de IA: resolución de problemas, rigor
+    técnico y compromiso al 100%.'
+  botones:
+  - etiqueta: Ver por qué encajo →
+    destino: '#motivacion'
+  - etiqueta: LinkedIn
+    destino: linkedin
+  - etiqueta: GitHub
+    destino: github
+subbloque_propuesta:
+  motivacion:
+    titulo: No busco más teoría. Busco intensidad.
+    subtitulo: ''
+    parrafos:
+    - texto: Desde mi visión, el potencial real de la IA no está en consumir modelos ya construidos, sino
+        en diseñar las arquitecturas, pipelines y agentes capaces de resolver problemas de negocio e infraestructura
+        reales.
+      lede: true
+    - texto: Busco la inmersión total que ofrece este bootcamp para acelerar mi curva de aprendizaje,
+        enfrentarme a sprints exigentes y construir, en equipo, proyectos con vocación de producción.
+      lede: false
+    - texto: 'Después de más de dos décadas diseñando y gobernando sistemas TIC complejos, este es el
+        salto que quiero dar: pasar de gobernar la tecnología a construirla.'
+      lede: false
+    eyebrow: Motivación
+    etiqueta_nav: ''
+  aportaciones:
+    titulo: Tres cosas que llevo a la mesa desde el primer día.
+    elementos:
+    - etiqueta: Rigor
+      subtitulo: Rigor y metodología
+      cuerpo: Más de dos décadas diseñando, gobernando y auditando sistemas TIC complejos en banca, seguros
+        y telecomunicaciones. Sé estructurar procesos, gestionar entregas bajo presión y sostener la trazabilidad
+        de una decisión de principio a fin.
+    - etiqueta: Builder
+      subtitulo: Mentalidad builder
+      cuerpo: Hábito constante de experimentar con código, APIs, automatizaciones y flujos de trabajo
+        técnicos — no como curiosidad puntual, sino como parte de cómo resuelvo problemas.
+    - etiqueta: Equipo
+      subtitulo: Colaboración y resiliencia
+      cuerpo: Experiencia real coordinando equipos multidisciplinares, desbloqueando dependencias y sosteniendo
+        objetivos comunes cuando el proyecto se complica.
+    eyebrow: Qué aporto
+    etiqueta_nav: ''
+  proyecto:
+    titulo: El reto que llevaría al bootcamp
+    problema:
+      subtitulo: El problema
+      cuerpo: En los programas de Service Delivery, el gobierno de SLAs y el reporting ejecutivo se sostienen
+        todavía sobre hojas de cálculo, correos y reuniones de seguimiento. Detectar una desviación antes
+        de que escale a incidencia contractual sigue siendo un proceso manual, lento y dependiente de
+        una sola persona.
+    solucion:
+      subtitulo: La solución propuesta
+      cuerpo: Un agente de gobierno de SLAs que interpreta contratos y tickets con RAG, cruza lo pactado
+        contra lo real y genera alertas tempranas y un informe ejecutivo sin intervención manual.
+    arquitectura:
+      flujo:
+      - titulo: FUENTES
+        descripcion:
+        - Contratos
+        - Tickets · KPIs
+        conector: ''
+        acento: false
+      - titulo: RAG + MODELO
+        descripcion:
+        - Interpreta cláusulas
+        - y umbrales
+        conector: extrae
+        acento: false
+      - titulo: AGENTE ORQUESTADOR
+        descripcion:
+        - SLA pactado
+        - vs. real
+        conector: compara
+        acento: true
+      - titulo: SALIDA
+        descripcion:
+        - Alertas +
+        - informe ejecutivo
+        conector: genera
+        acento: false
+      pie: 'Arquitectura conceptual: de los datos de contrato y soporte a un informe ejecutivo, con un
+        agente que vigila en continuo el cumplimiento del SLA.'
+      imagen: ''
+    cita: Este es el tipo de reto que quiero diseñar, validar y desplegar durante las semanas del bootcamp.
+    eyebrow: Proyecto · Propuesta de arquitectura
+    etiqueta_nav: Proyecto
+  cierre:
+    titulo: Listo para el sprint.
+    subtitulo: Compromiso de dedicación completa para aprovechar cada clase, mentoría y proyecto colaborativo.
+    eyebrow: Cierre
+    etiqueta_nav: Contacto
+    botones:
+    - etiqueta: Conectar en LinkedIn
+      destino: linkedin
+    - etiqueta: Ver GitHub
+      destino: github
+    - etiqueta: Escribir email
+      destino: email
+pie_pagina: José Galindo — Candidatura Bootcamp IA ·
+procedencia:
+  plantilla_base: MICROSITE_TEMPLATE.es.md
+  plantilla_version: '0.2'
+  version_documento: '1.0'
